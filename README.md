@@ -1,5 +1,10 @@
 # Automated Micro-CT Image Segmentation and Void Analysis of HDPE-HGM Syntactic Foams using Machine Learning
 
+Syntactic foams are a subclass of composite materials in which the matrix is embedded with hollow microspheres, offering a high strength-to-weight ratio suitable for the aerospace, marine, and automotive industries. The microspheres create porosity, visually indistinguishable from voids caused by manufacturing during imaging, both of which influence mechanical performance. Quantification and classification are, therefore, crucial for quality control and predictive modelling. This thesis proposes an integrated pipeline utilizing micro-CT imaging and unsupervised learning to segment and quantify voids, particles, and matrix in HDPE-HGM syntactic foams. A hybrid segmentation technique leveraging slice-wise thresholding and K-means clustering resulted in an F1 score of 0.92 compared to LabKit for voids. Voids were further classified into raster voids and HGM cavities based on shape descriptors, with subsequent spatial analysis performed using the R-index and clustering coefficients. Morphological features were correlated to Ultimate Tensile Strength and Young's Modulus. A custom GUI enables 3D visualization and segmented mesh export, facilitating the creation of digital twins for enhanced material analysis and process optimization.
+
+## Graphical Abstract
+![Graphical Abstract](https://github.com/user-attachments/assets/f3754364-e5cf-48df-8673-2b284c05251d)
+
 ## Project Overview
 
 This repository introduces my master’s thesis, which explores an automated machine learning pipeline for segmenting and analyzing micro-CT images of 3D-printed syntactic foams. The research focuses on high-density polyethylene (HDPE) composites reinforced with hollow glass microspheres (HGMs), aiming to evaluate void structure and predict mechanical properties without destructive testing.
