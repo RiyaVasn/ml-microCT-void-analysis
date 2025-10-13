@@ -15,7 +15,7 @@ This repository introduces my master’s thesis, which explores an automated mac
 
 ## Methodology
 
-The project applies unsupervised learning to segment grayscale CT images, extract morphological features such as void volume fraction and sphericity, and correlate them with tensile strength and modulus. The goal is to replace destructive mechanical testing with a scalable, image-based predictive pipeline.
+The project applies unsupervised learning to segment grayscale CT images, extract morphological features such as void volume fraction and sphericity, and correlate them with tensile strength and modulus. The goal is to replace destructive mechanical testing with a scalable, image-based predictive pipeline. The codebase includes a lightweight standalone GUI software built using Python, designed to make segmentation and void analysis workflows accessible without writing code.
 <img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/90720fe2-ebbb-4dfe-bca7-c452e8b44ae5" />
 
 
