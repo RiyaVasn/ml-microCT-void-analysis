@@ -34,4 +34,6 @@ The complete code, data, and visualizations will be uploaded after formal public
 
 ## Reference
 
-This project is based on research conducted at York University as part of my Master of Applied Science thesis in Mechanical Engineering (2025).
+**“Automated Segmentation of Voids and Particles in HDPE-HGM Syntactic Foams Using µCT Imaging and K-Means Clustering,”**  *Materials & Design*, Elsevier, 2025.  
+[DOI](https://doi.org/10.1016/j.matdes.2026.115538)
+
